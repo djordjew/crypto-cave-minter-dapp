@@ -1,9 +1,9 @@
-const contractAddress = "YOUR CONTRACT ADDRESS"; // Replace with your own contract address
-const chain = 'goerli'; // goerli, polygon, or ethereum
+const contractAddress = "0xb615fd2c7087FA0E02bBFA5791Eab40245E1f8a7"; // Replace with your own contract address
+const chain = 'polygon'; // goerli, polygon, or ethereum
 
-const welcome_h1 = "Welcome to the CodeCats NFT Project!!";
+const welcome_h1 = "Welcome to the CaveCode NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'The CodeCats NFT Project is a decentralized, open-source project that aims to demonstrate how to develope and launch your own NFT Collection. Follow step by step on the <a href="https://youtube.com/codestackr"  target="_blank" rel="noopener noreferrer">codeSTACKr</a> YouTube channel.';
+const welcome_p = 'CaveCode is a unique NFT collection featuring 2000 prehistoric people representing various web3 users. Each character is hand-made with programming language-inspired earrings and natural pigment-inspired colors. With a cave art feel, CaveCode is a valuable addition to any NFT portfolio. Join us in the CryptoCave and become a part of this one-of-a-kind web3 community!';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
